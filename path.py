@@ -4,12 +4,12 @@ batch,due_date,name,url,strict,extra
 2,2018/02/02,Century From Year,https://www.codewars.com/kata/century-from-year,,false
 1,2018/01/19,Convert a Number to a String!,https://www.codewars.com/kata/convert-a-number-to-a-string,,false
 1,2018/01/19,Convert a String to a Number!,https://www.codewars.com/kata/convert-a-string-to-a-number,,false
-2,2018/02/02,Convert boolean values to strings 'Yes' or 'No'.,https://www.codewars.com/kata/
+2,2018/02/02,Convert boolean values to strings 'Yes' or 'No'.,https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no,,false
 3,2018/02/21,Count of pos minus neg,https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives,,
 3,2018/02/21,Counting sheep,https://www.codewars.com/kata/counting-sheep-dot-dot-dot,,
 3,2018/02/21,Double char,https://www.codewars.com/kata/double-char,,
 2,2018/02/02,Even or Odd,https://www.codewars.com/kata/even-or-odd,,false
-4,2018/03/04,Exclamation per Vowel,https://www.codewars.com/kata/
+4,2018/03/04,Exclamation per Vowel,https://www.codewars.com/kata/exclamation-marks-series-number-11-replace-all-vowel-to-exclamation-mark-in-the-sentence,,
 2,2018/02/02,Fake Binary,https://www.codewars.com/kata/fake-binary,,false
 1,2018/01/19,Find the volume of a Cone.,https://www.codewars.com/kata/find-the-volume-of-a-cone,,false
 4,2018/03/04,Friend or Foe,https://www.codewars.com/kata/friend-or-foe,,
@@ -31,7 +31,7 @@ batch,due_date,name,url,strict,extra
 4,2018/03/04,Sentence smash,https://www.codewars.com/kata/sentence-smash,,
 2,2018/02/02,SevenAte9,https://www.codewars.com/kata/sevenate9,,false
 3,2018/02/21,Square n sum,https://www.codewars.com/kata/square-n-sum,,
-2,2018/02/02,Sum of all the multiples of 3 or 5,https://www.codewars.com/kata/
+2,2018/02/02,Sum of all the multiples of 3 or 5,https://www.codewars.com/kata/sum-of-all-the-multiples-of-3-or-5,,false
 3,2018/02/21,Sum of positives,https://www.codewars.com/kata/sum-of-positive,,
 3,2018/02/21,Two lowest positive,https://www.codewars.com/kata/sum-of-two-lowest-positive-integers,,
 1,2018/01/19,Volume of a Cuboid,https://www.codewars.com/kata/volume-of-a-cuboid,,false
